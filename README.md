@@ -1,2 +1,2 @@
-# Ordenacao
+# Ordenação
  Algoritmos de ordenação em C
